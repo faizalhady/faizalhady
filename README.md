@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming knowledge in general because im a beginner
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me syedfaizalhady@gmail.com
+- 📫 How to reach me syedfaizalhady32@gmail.com
 
 <!---
 faizalhady/faizalhady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
